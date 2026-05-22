@@ -1,40 +1,69 @@
-# Hi, I'm Coach Bee 👋
+# Coach Bee 👋
 
-### Technology | Leadership | Cloud | DevOps | AI
+### Technology • Leadership • Cloud • DevOps • AI
 
-Welcome to my GitHub space.
-
-I am passionate about technology, leadership, innovation, and building solutions that create meaningful impact.
+Building solutions, enabling teams, and continuously learning.
 
 ---
 
-## Areas of Interest
+## 🚀 About Me
 
-- Cloud and Infrastructure
-- DevOps and Automation
+Passionate about technology, innovation, leadership, and building meaningful solutions.
+
+I enjoy exploring modern technologies, improving systems, enabling teams, and learning new things.
+
+---
+
+## 🌍 Focus Areas
+
+- Cloud & Infrastructure
+- DevOps & Automation
 - Platform Engineering
-- AI and Emerging Technology
+- AI & Emerging Technology
 - Agile Delivery
 - Digital Transformation
+- Developer Experience
 
 ---
 
-## Currently Exploring
+## 🛠️ Technologies
+
+- AWS
+- Azure
+- Docker
+- Kubernetes
+- Terraform
+- Python
+- TypeScript
+- GitHub
+- Jenkins
+
+---
+
+## 📚 Currently Exploring
 
 - AI-powered workflows
+- Automation & scalability
 - Cloud engineering
-- Automation
 - Platform reliability
-- Developer experience
+- Modern delivery practices
 
 ---
 
-## Philosophy
+## 💭 Philosophy
 
 Technology is most impactful when it is simple, scalable, and useful.
 
 ---
 
-## Connect
+## 📈 GitHub Stats
 
-Open to learning, collaborating, and building meaningful solutions.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoachBeeBest1&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoachBeeBest1&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect
+
+Open to collaboration, learning, and building impactful solutions.
